@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+    margin-bottom: 300px;
+    
+}
+.rotate img{
+    transform: rotate(20deg);
+}
+.translate{
+    transform:translate(200px, 500px);
+}
